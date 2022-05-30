@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="" />
+    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="This is a supplement to lab2(java)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,8 +226,16 @@
       <workItem from="1653636762833" duration="5057000" />
       <workItem from="1653642483946" duration="940000" />
       <workItem from="1653840572236" duration="622000" />
-      <workItem from="1653920619205" duration="939000" />
+      <workItem from="1653920619205" duration="1300000" />
     </task>
+    <task id="LOCAL-00001" summary="This is a supplement to lab2(java).">
+      <created>1653921916209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653921916209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,5 +259,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="This is a supplement to lab2(java)." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a supplement to lab2(java)." />
   </component>
 </project>
