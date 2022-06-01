@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @WebServlet(name="ConfigDemoServlet",urlPatterns="/jdbc",initParams={
-        @WebInitParam(name="name",value="JieMengyao"),
+        @WebInitParam(name="name",value="MaYanzhen"),
         @WebInitParam(name="student-id",value="2019211001001201")
 })
 
