@@ -9,34 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="This is a supplement to lab2(java).">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="week12">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/HelloWorldServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/AccountDetailsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/AddProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/AddProductServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/AdminHomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/AdminHomeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/CartServlet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/GetImgServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/GetImgServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/HomeServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/LogoutServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/OrderDetailsServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/OrderServlet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ProductDetailsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ProductDetailsServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ProductListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ProductListServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ShopServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/ShopServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/UpdateUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/UpdateUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/UserListServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/IOrderDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/IProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/IProductDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/IUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/OrderDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/ProductDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/filter/AdminAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/filter/AdminAuthenticationFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/filter/FrontEndAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/filter/FrontEndAuthenticationFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Payment.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week3/demo/LifeCycleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week3/demo/LifeCycleServlet.java" afterDir="false" />
@@ -48,11 +38,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/JdbcServletContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/JdbcServletContextListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/RedirectServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/SearchServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/week6/demo/SearchServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab2/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab2/LoginFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab2/MYZFilter.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lab2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -277,7 +262,7 @@
       <workItem from="1653840572236" duration="622000" />
       <workItem from="1653920619205" duration="2161000" />
       <workItem from="1654076605272" duration="101000" />
-      <workItem from="1654076957361" duration="393000" />
+      <workItem from="1654076957361" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="This is a supplement to lab2(java).">
       <created>1653921916209</created>
@@ -300,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653922349052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week12">
+      <created>1654077453181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654077453181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +317,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="This is a supplement to lab2(java)." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a supplement to lab2(java)." />
+    <MESSAGE value="week12" />
+    <option name="LAST_COMMIT_MESSAGE" value="week12" />
   </component>
 </project>
