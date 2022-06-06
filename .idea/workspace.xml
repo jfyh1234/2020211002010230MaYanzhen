@@ -9,45 +9,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="week14">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/HelloWorldServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/AccountDetailsServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/AddProductServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/AdminHomeServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/CartServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/GetImgServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/HomeServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/LogoutServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/OrderDetailsServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/OrderServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/ProductDetailsServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/ProductListServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/ShopServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/UpdateUserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/controller/UserListServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/IOrderDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/IProductDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/IUserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/OrderDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/ProductDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/filter/AdminAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/filter/FrontEndAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week3/demo/LifeCycleServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week3/demo/RegisterServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week4/demo/ConfigDemoServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week4/demo/JDBCDemoServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week5/demo/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week6/demo/EncondingFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week6/demo/JdbcServletContextListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week6/demo/RedirectServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYazhen/week6/demo/SearchServlet.java" beforeDir="false" />
+    <list default="true" id="198f6599-71de-4cb8-b69a-7fbb06d19865" name="变更" comment="week15">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2020211002010230MaYanzhen_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2020211002010230MaYanzhen_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2020211002010230MaYanzhen_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2020211002010230MaYanzhen_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/OrderDetailsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MaYanzhen/controller/OrderDetailsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accountDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accountDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/orderList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/orderList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updateUserView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updateUserView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userinfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/2020211002010230MaYanzhen-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/classes/com/MaYanzhen/HelloWorldServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/classes/com/MaYanzhen/HelloWorldServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/classes/com/MaYanzhen/week4/demo/ConfigDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/classes/com/MaYanzhen/week4/demo/ConfigDemoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/accountDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/accountDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/admin/orderList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/admin/orderList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/admin/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/updateUserView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/updateUserView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/userinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/views/userinfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JieMengyo2019211001001201-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MaYanzhen/HelloWorldServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MaYanzhen/HelloWorldServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MaYanzhen/week4/demo/ConfigDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MaYanzhen/week4/demo/ConfigDemoServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +260,9 @@
       <workItem from="1653920619205" duration="2161000" />
       <workItem from="1654076605272" duration="101000" />
       <workItem from="1654076957361" duration="1651000" />
-      <workItem from="1654139796492" duration="296000" />
+      <workItem from="1654139796492" duration="528000" />
+      <workItem from="1654441589812" duration="1118000" />
+      <workItem from="1654478325689" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="This is a supplement to lab2(java).">
       <created>1653921916209</created>
@@ -325,7 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654139981775</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="week15">
+      <created>1654140111273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654140111273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="week15">
+      <created>1654140242479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654140242479</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +355,7 @@
     <MESSAGE value="week12" />
     <MESSAGE value="week13" />
     <MESSAGE value="week14" />
-    <option name="LAST_COMMIT_MESSAGE" value="week14" />
+    <MESSAGE value="week15" />
+    <option name="LAST_COMMIT_MESSAGE" value="week15" />
   </component>
 </project>

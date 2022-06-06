@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>2019211001001201JieMengyao</module>
+        <module>2020211002010230MaYanzhen</module>
         <packaging>war</packaging>
       </options>
     </properties>

@@ -1,5 +1,5 @@
 <%@ page import="java.sql.Connection" %>
-<%@ page import="com.MaYanzhen.model.Category" %>
+<%@ page import="com.JieMengyao.model.Category" %>
 <%@include file="../header.jsp" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
@@ -59,7 +59,7 @@
 								<p>${p.price }</p>
 							</td>
 							<%
-								com.MaYanzhen.model.Product p = (com.MaYanzhen.model.Product)pageContext.findAttribute("p");
+								com.JieMengyao.model.Product p = (com.JieMengyao.model.Product)pageContext.findAttribute("p");
 								int n = p.getCategoryId();
 								Connection con = (Connection)application.getAttribute("dbConn");
 								String catName = Category.findByCategoryId(con,n);

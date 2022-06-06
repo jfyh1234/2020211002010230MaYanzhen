@@ -18,11 +18,11 @@
     </servlet-mapping>
     <context-param>
         <param-name>name</param-name>
-        <param-value>JieMengyao</param-value>
+        <param-value>MaYanzhen</param-value>
     </context-param>
     <context-param>
         <param-name>student-id</param-name>
-        <param-value>2019211001001201</param-value>
+        <param-value>2020211002010230</param-value>
     </context-param>
     <context-param>
         <param-name>driver</param-name>
@@ -72,6 +72,7 @@
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>RegisterServlet</servlet-name>
+
         <url-pattern>/register</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
@@ -79,11 +80,11 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
     <filter>
-    <filter-name>JMYFilter</filter-name>
+    <filter-name>MYZFilter</filter-name>
         <filter-class>com.lab2.MYZFilter</filter-class>
     </filter>
     <filter-mapping>
-    <filter-name>JMYFilter</filter-name>
+    <filter-name>MYZFilter</filter-name>
     <url-pattern>/lab2/welcome.jsp</url-pattern>
     </filter-mapping>
 </web-app>

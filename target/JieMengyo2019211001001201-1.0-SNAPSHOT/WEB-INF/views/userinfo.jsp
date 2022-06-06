@@ -1,4 +1,4 @@
-<%@ page import="com.MaYanzhen.model.User" %>
+<%@ page import="com.JieMengyao.model.User" %>
 <%@include file="header.jsp" %>
 <%@page  contentType="text/html;charset=UTF-8" language="java"%>
 

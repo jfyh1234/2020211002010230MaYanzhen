@@ -1,6 +1,6 @@
 <%@include file="header.jsp" %>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page import="com.MaYanzhan.model.User" %>
+<%@ page import="com.JieMengyao.model.User" %>
 	<section id="z`z`">
 		<div class="container">
 			<div class="step-one">
@@ -72,10 +72,10 @@
 						</td>
 						<td class="cart_total">
 						<%
-							com.MaYanzhen.model.Order o=(com.MaYanzhen.model.Order)pageContext.findAttribute("o");
+							com.JieMengyao.model.Order o=(com.JieMengyao.model.Order)pageContext.findAttribute("o");
 							int n=o.getPaymentId();
 							java.sql.Connection con=(java.sql.Connection)application.getAttribute("dbConn");
-							String paymentType=com.MaYanzhen.model.Payment.findByPaymentId(con,n);
+							String paymentType=com.JieMengyao.model.Payment.findByPaymentId(con,n);
 							 %>
 								<p class="cart_total_price"><%=paymentType %></p>
 							</td>
